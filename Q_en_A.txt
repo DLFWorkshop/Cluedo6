@@ -1,10 +1,12 @@
-c57d58669a1746f848b64e6a84d224827db78455 Is groep 2 werk?
-53061627ad133fa5de1a939d4c150ddd08b1a9f0 Weet ik niet
-c57d58669a1746f848b64e6a84d224827db78455 Is groep 2 werk?
-53061627ad133fa5de1a939d4c150ddd08b1a9f0 Weet ik niet
-c57d58669a1746f848b64e6a84d224827db78455 Is groep 2 werk?
-53061627ad133fa5de1a939d4c150ddd08b1a9f0 Weet ik niet
-5db0a8724c9efee077af37fc5a5d84ae2f92bf04 Duplo. Heel mooi. Ik ben super blij.
+Wat doe je voor werk?
+	Is groep 2 werk?
+
+Wat is je schoenmaat?
+	Weet ik niet
+
+Wat voor een pakketje heb je gekregen?
+	Duplo. Heel mooi. Ik ben super blij.
+
 Hoe was het feestje?
 	Leuk!
 
