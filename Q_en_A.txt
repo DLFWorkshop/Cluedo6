@@ -10,6 +10,7 @@ Niets
 Heeft David een crimineel record? (Negeer deze I guess politie :) )
 =======
 Wat is de schoenmaat van David?
+<<<<<<< HEAD
 >>>>>>> 86824fed23764d60441d2b8a2a918b1f25f2dc5f
 
 Heeft David een crimineel record?
@@ -20,3 +21,13 @@ Wat is de schoenmaat van David?
 
 Wat ligt er nog meer in de sloot?
 >>>>>>> 89a4e923127ebe3b1dff27fb0337155b1b622368
+=======
+Maat 41 xoxo Politie test
+
+
+Wat ligt er nog meer in de sloot?
+Een goedkoop Bordeaux wijntje, hoeveelheid van ongeveer 1 fles
+>>>>>>> e45e5a5ae18597784569591b2c2b3d81d3e7dafc
+
+
+Heeft David een crimineel record?
