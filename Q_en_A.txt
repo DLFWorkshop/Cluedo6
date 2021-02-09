@@ -11,3 +11,6 @@ Delano - Wat doe je dagelijks voor werk? - c2e3a301cefd6f8aaa15708fdf554b46cfaee
 
 Hadden papa en mama vaak ruzie? - 83000df4f06110ed05d66113c4ca9791c60998bf -> Soms hoorde ik ze wel schreeuwen. 
 Wat is de laatste keer dat je David nog in levende lijve gezien hebt? - e52e978e00d57062a1e9bff180f1e04328240140 -> Op feestje
+
+Heb je een alibi voor de avond van de moord en kan iemand dit bevestigen? - c57942ba0393f5fcff59364081a56364e1b5bc5a
+Delano - Heb je een alibi voor de avond van de moord en kan iemand dit bevestigen? - c57942ba0393f5fcff59364081a56364e1b5bc5a
