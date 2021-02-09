@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Is je iets vreemds opgevallen afgelopen dagen? - e96c8083c4bd2c0c95933f4dc6f42e2af55469e6
 Heb je nog last van de scheiding van David gehad afgelopen tijd? - 0f022873183e3442b6e09cac2eb523bd5ed9454d
 =======
+=======
+Is je iets vreemds opgevallen afgelopen dagen? - e96c8083c4bd2c0c95933f4dc6f42e2af55469e6
+Heb je nog last van de scheiding van David gehad afgelopen tijd? - 0f022873183e3442b6e09cac2eb523bd5ed9454d
+Heb je nog gevoelens voor David? - 64766e820613dee9c12d469ade0ffe84a1d2195a
+>>>>>>> 39eb712babb81eaec07cad06de0b6273f429b6d4
 
 Q1: Is je iets vreemds opgevallen afgelopen dagen? - e96c8083c4bd2c0c95933f4dc6f42e2af55469e6
 A1: Dat gezeur van de scheiding is de afgelopen jaren eindelijk opgehouden. Ik heb het idee dat hij het erg druk had met andere dingen, waarschijnlijk werk of zoiets.
@@ -19,4 +25,8 @@ Patricia - Heb je een alibi voor de avond van de moord en kan iemand dit bevesti
 
 Wat is je schoenmaat? - 9f5ae789e76eeac27b815ce2c196149278e7ac41
 
+<<<<<<< HEAD
 >>>>>>> 689d653d2fe98ef465f6ebee1e62ed5626c23eb5
+=======
+
+>>>>>>> 39eb712babb81eaec07cad06de0b6273f429b6d4
