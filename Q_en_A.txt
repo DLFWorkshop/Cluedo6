@@ -10,3 +10,5 @@ Wat is het laatste pakket dat je hebt ontvangen? - 9639df7bb8372b6e650aad9f12cf1
 Bob - Wat doe je dagelijks voor werk? - 12e92db2c48742e90b21502035fc748721b0538e - Werk? Nee joh.
 Bob - Kan je iemand bedenken die David dood zou willen hebben? - 83b0afd4fc4dcaf9cb8852c6e805d30d78d47428 - Wat?
 
+Bob - Gebruik je zelf drugs? - d7189c6d51687ec9d5dc1111b348d5c0e0a1e2e0
+Bob - Wat is de laatste keer dat je David nog in levende lijve gezien hebt? - 83c8436dd4a0644c00f2046748eee23aa33d0818
