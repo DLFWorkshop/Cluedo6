@@ -1,14 +1,11 @@
-<<<<<<< HEAD
 Wat is de maat van de schoenafdruk?
 
 Maat 41 xoxo Politie test
-=======
-Hallo
->>>>>>> 49d1c13dd239001e39844831d214ed519adca35e
 
 Hoeveel bloed ligt er in de sloot?
 Niets
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 Heeft David een crimineel record? (Negeer deze I guess politie :) )
 =======
@@ -16,3 +13,10 @@ Wat is de schoenmaat van David?
 >>>>>>> 86824fed23764d60441d2b8a2a918b1f25f2dc5f
 
 Heeft David een crimineel record?
+
+
+=======
+Wat is de schoenmaat van David?
+
+Wat ligt er nog meer in de sloot?
+>>>>>>> 89a4e923127ebe3b1dff27fb0337155b1b622368
