@@ -14,5 +14,3 @@ Bob - Wat is het laatste pakket dat je hebt ontvangen? - 9639df7bb8372b6e650aad9
 Delano - Wat is de laatste keer dat je David nog in levende lijve gezien hebt? - e52e978e00d57062a1e9bff180f1e04328240140
 Marjo - Wat is je schoenmaat? - 37a7d6222de4535ea85417491179c56b59f656d4
 Cluelia - Wat is de laatste keer dat je David nog in levende lijve gezien hebt? - f0ff9055d5d035350f1f3003d4dc0924efcd99d2
-
-
