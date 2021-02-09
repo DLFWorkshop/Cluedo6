@@ -1,2 +1,12 @@
-Waarmee smeer jij je geliefde boterham op zondagochtend? - 3dbc9559cc5b9d35965c42d0854552374c2788ad
+<<<<<<< HEAD
+=======
+Waarmee smeer jij je geliefde boterham op zondagochtend? - 3dbc9559cc5b9d35965c42d0854552374c2788ad -> Botermes
+Delano - Wat vind je het leukste aan papa? - 3daea4ffc9f2e319ef2427d8bcd51fc21df87021 -> Zijn snor! Hij is heel mooi en stoer.
+<46cfaee238
+
+Hadden papa en mama vaak ruzie? - 83000df4f06110ed05d66113c4ca9791c60998bf -> Soms hoorde ik ze wel schreeuwen.
+
+Delano - Wat is je lievelingsdier? - 3c26f33c6c0ce575c67f8703abd7726ad8b995ba -> Een leguaan
+Delano - Wat is je schoenmaat? - 62223e3aa4408d3394de11e0551dc2698f221c65 -> soms 40, maar Nikes in maat 41
 Is je iets vreemds opgevallen afgelopen dagen? - 67ed711b9cd901acbf541687dca7b30c91852a02
+>>>>>>> f54120b448accc6adbddedc18e89ad4a4bf86c85
