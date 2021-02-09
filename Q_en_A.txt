@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Q1: Is je iets vreemds opgevallen afgelopen dagen? - e96c8083c4bd2c0c95933f4dc6f42e2af55469e6
 A1: Dat gezeur van de scheiding is de afgelopen jaren eindelijk opgehouden. Ik heb het idee dat hij het erg druk had met andere dingen, waarschijnlijk werk of zoiets.
+=======
+test 1
+Is je iets vreemds opgevallen afgelopen dagen? - e96c8083c4bd2c0c95933f4dc6f42e2af55469e6
+
+Heb je David nog gezien verleden week? - 8f0551461d87e2dd3cee0136b5244054a7a42dac (door Cluelia)
+>>>>>>> 6aed1fc6a14a7383786b17b65c5d42c748356251
