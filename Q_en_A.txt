@@ -17,3 +17,5 @@ Wat is je schoenmaat? - 37a7d6222de4535ea85417491179c56b59f656d4
 
 Waarmee smeer jij je geliefde boterham op zondagochtend? - 9fc9422df5331a84d69c4954e6a96d45db1bbd73
 Weet je zeker dat je niet weet hoe de kat van de buurvrouw heet? - 37d3168c58f704b07e28f9aa50b33e34321ec5b0
+Wie kwamen er de laatste tijd aan David zijn deur? - d70f715cdb35f30aa04366ec7a632965d4ceb20f
+
